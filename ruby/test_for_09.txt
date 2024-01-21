@@ -1,0 +1,4 @@
+Hello, this is a short text file to test `09 file_handling.rb`
+It will append the time it was read here:
+George was here at 2024-01-21 15:55:19 
+Test was here at 2024-01-21 15:58:28 
