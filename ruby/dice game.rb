@@ -115,7 +115,6 @@ def print_leaderboard
     json = json.sort_by do |hash|
         hash["score"]
     end
-    puts json.is_a? Array
     json.each do |hash|
         puts "#{hash["name"]} scored #{hash["score"]}"
     end
